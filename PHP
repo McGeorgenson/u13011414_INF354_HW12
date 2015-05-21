@@ -5,6 +5,10 @@
 		$number=10000000+3000000+10000+1000+400+10+4;
 		echo "Christopher Park ";
 		echo $number;
+		echo "<br/>";
+		echo "The asians guy in INF354: Yi-Yu Liu";
+		$meNum=10000000+3000000+40000+3000+700+7;
+		echo $meNum;
 		?>
 	</body>
 </html>
